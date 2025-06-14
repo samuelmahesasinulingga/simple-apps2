@@ -2,7 +2,7 @@ name: simple-samuel
 
 services:
   app:
-    image: samuelmahesa/simple-samuel 
+    image: samuelmahesa/simple-apps2
     build: ./app
     ports:
       - "3000:3000"
